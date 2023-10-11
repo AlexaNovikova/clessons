@@ -1,0 +1,13 @@
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.AssemblyInfoInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.AssemblyInfo.cs
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.csproj.CoreCompileInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.exe
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.deps.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.runtimeconfig.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.runtimeconfig.dev.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\bin\Debug\netcoreapp3.1\example003.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.genruntimeconfig.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example003\obj\Debug\netcoreapp3.1\example003.GeneratedMSBuildEditorConfig.editorconfig
