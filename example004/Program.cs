@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-            Console.WriteLine("Enter number one");
-            int n1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter number two");
-            int n2 = Convert.ToInt32(Console.ReadLine());
-            double res = (double) n1 /n2; 
-            Console.WriteLine(n1 + " / " + n2 + " = " +  res);
+
+int rand1 = new Random().Next(1,20);
+int rand2 = new Random().Next(1,20);
+Console.WriteLine(rand1);
+Console.WriteLine(rand2);
+Console.WriteLine(rand1+rand2);
+
+
