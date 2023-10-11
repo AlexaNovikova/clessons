@@ -1,0 +1,14 @@
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.AssemblyInfoInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.AssemblyInfo.cs
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.csproj.CoreCompileInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\bin\Debug\net7.0\example005.exe
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\bin\Debug\net7.0\example005.deps.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\bin\Debug\net7.0\example005.runtimeconfig.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\bin\Debug\net7.0\example005.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\bin\Debug\net7.0\example005.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\refint\example005.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\example005.genruntimeconfig.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\C#lessons\lesson1\example005\obj\Debug\net7.0\ref\example005.dll
